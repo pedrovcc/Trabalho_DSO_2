@@ -1,0 +1,4 @@
+----------ARQUIVO DE LOG GERENCIADOR DE PROJETOS----------
+DATA DA CRIACAO: 11/12/2020 21:21:04
+TAREFAS EXISTENTES:
+Título: Tarefa 2 - Descrição: Descricao - Prazo de Entrega: 10/10/2021 -  Situação: R$Backlog

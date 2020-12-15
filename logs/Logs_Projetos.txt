@@ -1,0 +1,4 @@
+----------ARQUIVO DE LOG GERENCIADOR DE PROJETOS----------
+DATA DA CRIACAO: 11/12/2020 21:20:26
+PROJETOS EXISTENTES:
+Código: 2 - Título: Projeto 2 - Descrição: Descricao -  Custo: R$50,00
